@@ -14,7 +14,7 @@ const baseEffect = {
     
     points: 0,
     pointsExtra: 0,
-    pointsMult: 1,
+    pointsMult: 2,
 
     shredMult: 1,
     shredRMult: 1,
